@@ -8,7 +8,8 @@
 
 > Multi-label acoustic classification across **234 bird species** under extreme long-tail class imbalance and environmental polyphony, benchmarking expert acoustic features (**MFCC**) against pre-trained bioacoustic representations (**Google Perch**).
 
-📄 **[Read the Full Technical Report (PDF)](./report.pdf)**
+📄 **[Read the Full Technical Report (PDF) (OG french version)](./report_french_vers.pdf)**
+or **[english ai translated version](./report_eng_vers_ai_translated.pdf)**
 
 ---
 
